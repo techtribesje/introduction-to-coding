@@ -12,7 +12,7 @@ This is how you display text on the screen with Ruby.```rubyputs "We love mon
 ```rubyfor i in 1..10
   puts "We love monkeys"￼end
 ```
-- i is a variable and the value of it changes each time !Try this.Try this.
+- i is a variable and the value of it changes each timeTry this.
 
 ```rubyfor i in 1..10 
   puts i 
