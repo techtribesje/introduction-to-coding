@@ -37,9 +37,8 @@ If you finished that, change your code so that it only adds up the even numbers 
 
 ```python
 finished = true 
-if (finished == true) 
-  puts "change your code to only add even numbers" 
-end
+if (finished == true): 
+  puts "change your code to only add even numbers"
 ```
 
 # 7. FizzBuzz
