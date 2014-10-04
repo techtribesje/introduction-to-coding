@@ -1,6 +1,3 @@
-Ruby
-====
-
 # 1. Displaying Text
 This is how you display text on the screen with Ruby.```rubyputs "We love monkeys"
 ```- puts tells Ruby to display text- "We love monkeys" is the text to be displayed
