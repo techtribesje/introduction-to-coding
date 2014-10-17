@@ -46,9 +46,9 @@ You now have everything that you need to write a simple program that counts from
 If you finished that, change your code so that it only adds up the even numbers between 1 and 100.
 
 ```ruby
-finished = true 
-if (finished == true) 
-  puts "change your code to only add even numbers" 
+i = 2 
+if (i % 2 == 0) 
+  puts "i is even" 
 end
 ```
 

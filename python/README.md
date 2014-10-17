@@ -14,7 +14,7 @@ This is how you display text on the screen with Python.```pythonprint("We lov
 You can think of a variable as being like a tiny cardboard box that you can give a name to and put something inside of. Let’s create a variable called name and give it a value of "George".
 
 ```python
-nname = "George" 
+name = "George" 
 print("Hello", name); 
 ```
 
@@ -36,9 +36,9 @@ You now have everything that you need to write a simple program that counts from
 If you finished that, change your code so that it only adds up the even numbers between 1 and 100.
 
 ```python
-finished = true 
-if (finished == true): 
-  print("change your code to only add even numbers")
+i = 2 
+if (i % 2 == 0): 
+  print("i is even")
 ```
 
 # 7. FizzBuzz
